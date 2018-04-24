@@ -1,0 +1,1 @@
+This is a java 8 test using streams.
